@@ -87,7 +87,7 @@ def anti_morse(message):
 
 
 
-new_img = encode(img,img.shape[0],img.shape[1],"Hail Hitler")
+new_img = encode(img,img.shape[0],img.shape[1],"Deez Nutz")
 print(decode(new_img,new_img.shape[0],new_img.shape[1]))
 
 
